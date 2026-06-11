@@ -33,9 +33,9 @@ Die Datei wird mit dem **EMU Black Client** von ECUMaster geöffnet (Datei → P
 
 ## Status
 
-- ✅ Erststart-Konfiguration (Trigger-Setup verifiziert, Motor startet)
-- ⚠️ Leerlauf, Gemisch und Zündkennfeld nur grob bedatet
-- ❌ Kein Last-/Teillast-Tuning, keine Klopfregelung abgestimmt
+-  Erststart-Konfiguration (Trigger-Setup verifiziert, Motor startet)
+-  Leerlauf, Gemisch und Zündkennfeld nur grob bedatet
+-  Kein Last-/Teillast-Tuning, keine Klopfregelung abgestimmt
 
 ## Verwendung
 
